@@ -80,24 +80,6 @@ https://anxiety-level-prediction-ml.streamlit.app/
 
 ---
 
-## Repository Structure
-anxiety-level-prediction/
-│
-├── app.py
-├── model.pkl
-├── encoder.pkl
-├── scaler.pkl
-├── feature_columns.pkl
-├── requirements.txt
-├── data/
-│ └── enhanced_anxiety_dataset.csv
-├── notebooks/
-│ └── model_training.ipynb
-├── README.md
-└── LICENSE
-
----
-
 ## Technologies Used
 
 - Python
